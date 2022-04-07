@@ -18,9 +18,14 @@
     font-weight: 900;
 }
 
+.header ul {
+    list-style-type: none;
+}
+
 .header .list ul a {
     color: #e5e7eb;
     font-size: 18px;
+    text-decoration: none;
 }
 
 .main .hero {
@@ -45,6 +50,7 @@
 .hero .button a {
     color: #e5e7eb;
     font-weight: bold;
+    text-decoration: none;
 }
 
 /*ASIDE SECTION STYLES*/
@@ -94,6 +100,7 @@
 
 .signup .button a {
     color: #F9FAF8;
+    text-decoration: none;
 }
 
 /*FOOTER SECTION STYLES*/
