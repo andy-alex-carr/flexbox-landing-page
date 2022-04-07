@@ -77,3 +77,28 @@
     font-weight: 300;
     font-style: italic;
 }
+
+/*SIGN UP SECTION STYLES*/
+
+.signup .container {
+    background-color: #3882f6;
+}
+
+.signup h2 {
+    color: #F9FAF8;
+}
+
+.signup p {
+    color: #e5e7eb;
+}
+
+.signup .button a {
+    color: #F9FAF8;
+}
+
+/*FOOTER SECTION STYLES*/
+
+.footer {
+    background-color: #1f2937;
+    color: #e5e7eb;
+}
