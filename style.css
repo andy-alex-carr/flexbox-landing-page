@@ -6,3 +6,74 @@
     font-family: 'Roboto', sans-serif;
 }
 
+/*HEADER AND HERO SECTION STYLES*/
+
+.header {
+    background-color: #1f2937;
+}
+
+.header .logo {
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.header .list ul a {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.main .hero {
+    background-color: #1f2937;
+}
+
+.hero .container h1 {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+.hero .container p {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.hero .container .button {
+    background-color: #3882f6;
+}
+
+.hero .button a {
+    color: #e5e7eb;
+    font-weight: bold;
+}
+
+/*ASIDE SECTION STYLES*/
+
+.aside h2 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+}
+
+.aside p {
+    color: #1f2937;
+    font-size: 18px;
+}
+
+/*QUOTE SECTION STYLES*/
+
+.quote {
+    background-color: #e5e7eb;
+    color: #1f2937;
+}
+
+.quote .author{
+    font-size: 19px;
+    font-weight: 900;
+}
+
+.quote .text {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+}
