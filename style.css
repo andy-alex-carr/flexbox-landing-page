@@ -44,6 +44,7 @@
 }
 
 .hero .container {
+    max-width: 1000px;
     display: flex;
 }
 
@@ -84,6 +85,7 @@
 }
 
 .aside .container {
+    max-width: 900px;
     margin: auto;
     display: flex;
     justify-content: space-between;
@@ -116,6 +118,7 @@
 }
 
 .quote .container {
+    max-width: 900px;
     display: flex;
     flex-direction: column;
 }
@@ -141,6 +144,7 @@
 }
 
 .signup .container {
+    max-width: 1000px;
     background-color: #3882f6;
     display: flex;
     gap: 100px;
