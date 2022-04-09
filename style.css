@@ -10,9 +10,11 @@
 
 .header {
     background-color: #1f2937;
+    padding: 0 80px;
 }
 
 .header .container {
+    padding: 10px 0;
     display: flex;
     justify-content: space-around;
 }
@@ -37,6 +39,7 @@
 
 .main .hero {
     background-color: #1f2937;
+    padding: 80px;
 }
 
 .hero img {
@@ -72,6 +75,7 @@
 /*ASIDE SECTION STYLES*/
 
 .aside {
+    padding: 80px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -86,6 +90,7 @@
 
 .aside .container {
     max-width: 900px;
+    margin: 0 80px 0;
     display: flex;
     justify-content: space-between;
 }
@@ -111,6 +116,7 @@
 .quote {
     background-color: #e5e7eb;
     color: #1f2937;
+    padding: 80px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -118,6 +124,7 @@
 
 .quote .container {
     max-width: 900px;
+    margin: 40px;
     display: flex;
     flex-direction: column;
 }
@@ -137,6 +144,7 @@
 /*SIGN UP SECTION STYLES*/
 
 .signup {
+    padding: 80px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -169,6 +177,7 @@
 /*FOOTER SECTION STYLES*/
 
 .footer {
+    padding: 20px 0;
     background-color: #1f2937;
     color: #e5e7eb;
     display: flex;
