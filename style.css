@@ -182,12 +182,14 @@
 
 .signup .button {
     padding: 10px 30px;
+    border: 3px solid #F9FAF8;
     border-radius: 10px;
     align-self: center;
 }
 
 .signup .button a {
     color: #F9FAF8;
+    font-weight: 700;
     text-decoration: none;
 }
 
