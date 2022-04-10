@@ -70,6 +70,8 @@
 
 .hero .container .button {
     background-color: #3882f6;
+    padding: 10px 30px;
+    margin-top: 15px;
 }
 
 .hero .button a {
@@ -154,7 +156,7 @@
 /*SIGN UP SECTION STYLES*/
 
 .signup {
-    padding: 80px;
+    padding: 100px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -162,6 +164,7 @@
 
 .signup .container {
     flex: 0 1 1000px;
+    padding: 50px 100px;
     background-color: #3882f6;
     display: flex;
     justify-content: space-between;
@@ -176,6 +179,7 @@
 }
 
 .signup .button {
+    padding: 10px 30px;
     align-self: center;
 }
 
